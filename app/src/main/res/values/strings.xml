@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo My Profile</string>
+    <string name="tvname">Name</string>
+    <string name="tvgpa">GPA</string>
+</resources>
